@@ -1,0 +1,34 @@
+PROJECT 1 Group 1 
+THe Assignment was to work into a group of four to create a project using the 
+Phython thus far. To be used in the FinTech world. 
+
+Aaron voiced he wanted a TextBot that would tell you if the specific market was going up or down during the day. 
+Aaron created a Flow Chart 
+Project_1_Group_1_Visualization
+
+The Master File for the StockBot Group Project uploaded to my GitHub This is the repository of work for Project 1
+
+https://files.slack.com/files-pri/T034H24LSKZ-F03ED78RXJ8/flow_chart.drawio.png 
+
+END PRODUCT
+
+EMAIL/TEXT
+table of current prices and changes from last update
+Recommendation about trajectories
+SMA/LMA display over graph
+Graphs for other tickers maybe
+Graph of past N days
+Graph of trajectory (Lin Reg etc)
+table of current prices and changes from last update - aaron - data of last update - data of current prices
+
+Recommendation about trajectories - todd - daily closes for past N months - Calculate SMA/LMA from aformentioned data - graph SMA/LMA over daily closes
+
+Graph of past N days - catherine - daily closes and percent changes for past N days
+
+Graph of trajectory (Lin Reg etc) - Later - daily closes of past N months - MA of daily closes - Lin Reg for MA
+
+I was able to find code to represent a overlaid line graph showing the moving average for a particular index or specific crypto.
+We decided to use S & P 500, NASDAQ, BTC and ETH. 
+I ask thegroup for help with this because I was stuck on how to write this in Python. Todd and/or Aaron wrote the syntax creating this 
+code. 
+These graphs where recreated with .pngs in a Power Point preentation to be used May 12, 2022
